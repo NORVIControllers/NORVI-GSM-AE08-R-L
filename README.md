@@ -178,7 +178,7 @@ Installation:
 - Disconnect power before wiring
 - Incorrect wiring may damage the controller
 
-Test Date: 26/10/2026 
+Test Date: 26/10/2026  
 Verified By: Kaveesha
 
 ## Support
